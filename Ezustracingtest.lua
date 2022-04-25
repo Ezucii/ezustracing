@@ -15,7 +15,7 @@ local DaHoodSettings = {
 
     AimLock = AimLockSettings,
     BeizerLock = {
-        Enabled = false,
+        Enabled = true,
         Smoothness = 0.0280,
         CurvePoints = {
             Vector2.new(0.83, 0),
